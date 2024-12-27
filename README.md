@@ -9,6 +9,6 @@ For the data modelling brother's python learning video collation code, continue 
 
 申请copilot的视频教程https://www.bilibili.com/video/BV17g4y1M7Kt/?spm_id_from=333.337.search-card.all.click&vd_source=04a61d6226f6255fd2173ec74afed02a
 
-pythonshiti是我简单整理的一些python程序，简单练手
+pythonshiti是我整理的一些python小程序，简单练手
 
 进一步详细学习请进入 https://cs61a.org/ 学习
